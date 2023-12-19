@@ -1,0 +1,48 @@
+total 48
+drwxr-xr-x 3 maciej maciej 4096 lis 29 09:40 Desktop
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Documents
+drwxr-xr-x 2 maciej maciej 4096 lis 29 09:04 Downloads
+drwxr-xr-x 3 root   root   4096 lis 20 21:30 HOME
+-rw-r--r-- 1 root   root     31 lis 20 20:43 info.txt
+-rw-rw-r-- 1 maciej maciej 1058 lis 29 09:27 <invalid path>
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Music
+-rw------- 1 maciej maciej    0 gru  4 16:50 nohup.out
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Pictures
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Public
+drwx------ 5 maciej maciej 4096 lis 29 09:21 snap
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Templates
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Videos
+Desktop
+Documents
+Downloads
+HOME
+info.txt
+<invalid path>
+Music
+nohup.out
+Pictures
+Public
+snap
+Templates
+Videos
+total 52
+drwxr-xr-x 3 maciej maciej 4096 lis 29 09:40 Desktop
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Documents
+drwxr-xr-x 2 maciej maciej 4096 lis 29 09:04 Downloads
+drwxr-xr-x 3 root   root   4096 lis 20 21:30 HOME
+-rw-r--r-- 1 root   root     31 lis 20 20:43 info.txt
+-rw-rw-r-- 1 maciej maciej 1058 lis 29 09:27 <invalid path>
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Music
+-rw------- 1 maciej maciej  816 gru  4 16:51 nohup.out
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Pictures
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Public
+drwx------ 5 maciej maciej 4096 lis 29 09:21 snap
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Templates
+drwxr-xr-x 2 maciej maciej 4096 lis 20 20:15 Videos
+sleep: missing operand
+Try 'sleep --help' for more information.
+find: missing argument to `-printf'
+find: ‘/-printf’: No such file or directory
+find: ‘/-printf’: No such file or directory
+top: failed tty get
+top: failed tty get
